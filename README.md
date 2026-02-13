@@ -118,6 +118,3 @@ curl -X POST "http://localhost:5678/webhook/triage" \
 │  └─ .env.example
 └─ n8n/
    └─ workflow_webhook_triage.json
-```
-
-Boa noite 😄
